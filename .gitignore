@@ -1,0 +1,7 @@
+solver
+solver.exe
+*.exe
+*.o
+generator
+data/my_backup.txt
+data/*_backup.txt
